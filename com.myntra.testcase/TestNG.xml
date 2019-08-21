@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+  
+<suite name="INetBankingV1">
+
+	<Listeners>
+		<Listener class-name ="com.myntra.utilities.ListenerTest.class" />
+	</Listeners>
+	
+  <test name="Guru99 Test" >
+  	<!--  <parameter name="browser" value="chrome"/> -->
+    <classes>
+       <class name="com.myntra.testcase.TC01_MyntraLogin" />
+    </classes>
+  </test>
+</suite>

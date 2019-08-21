@@ -1,0 +1,150 @@
+2019-08-07 00:47:01,877 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-07 00:47:04,216 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-07 00:47:04,512 +0530 [main] INFO  (TC01_MyntraLogin.java:17) - UserName entered
+2019-08-07 00:47:04,677 +0530 [main] INFO  (TC01_MyntraLogin.java:20) - Password Entered
+2019-08-07 00:47:04,800 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - Clicked on Login button
+2019-08-07 00:47:05,868 +0530 [main] INFO  (BaseClass.java:56) - Application Closed successfully
+2019-08-08 12:17:39,516 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-08 12:17:46,518 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-08 12:17:46,770 +0530 [main] INFO  (TC01_MyntraLogin.java:21) - UserName entered
+2019-08-08 12:17:46,883 +0530 [main] INFO  (TC01_MyntraLogin.java:24) - Password Entered
+2019-08-08 12:17:46,985 +0530 [main] INFO  (TC01_MyntraLogin.java:27) - Clicked on Login button
+2019-08-08 12:17:48,120 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-08 12:19:15,403 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-08 12:19:22,289 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-08 12:19:22,552 +0530 [main] INFO  (TC01_MyntraLogin.java:21) - UserName entered
+2019-08-08 12:19:22,678 +0530 [main] INFO  (TC01_MyntraLogin.java:24) - Password Entered
+2019-08-08 12:19:22,782 +0530 [main] INFO  (TC01_MyntraLogin.java:27) - Clicked on Login button
+2019-08-08 12:19:23,816 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-08 12:30:49,458 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-08 12:30:56,774 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-08 12:30:57,064 +0530 [main] INFO  (TC01_MyntraLogin.java:20) - UserName entered
+2019-08-08 12:30:57,182 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - Password Entered
+2019-08-08 12:30:57,315 +0530 [main] INFO  (TC01_MyntraLogin.java:26) - Clicked on Login button
+2019-08-08 12:30:58,299 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-08 23:54:12,771 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-08 23:54:13,155 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-08 23:54:23,967 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-08 23:54:57,796 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-08 23:54:58,217 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-08 23:55:03,205 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 12:15:38,902 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 12:15:44,250 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 12:15:44,714 +0530 [main] INFO  (TC01_MyntraLogin.java:20) - UserName entered
+2019-08-14 12:15:45,068 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - Password Entered
+2019-08-14 12:15:45,267 +0530 [main] INFO  (TC01_MyntraLogin.java:26) - Clicked on Login button
+2019-08-14 12:15:47,137 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 12:27:48,550 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 12:27:51,527 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 12:27:51,790 +0530 [main] INFO  (TC01_MyntraLogin.java:20) - UserName entered
+2019-08-14 12:27:51,929 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - Password Entered
+2019-08-14 12:27:52,086 +0530 [main] INFO  (TC01_MyntraLogin.java:26) - Clicked on Login button
+2019-08-14 12:27:53,276 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 12:47:37,015 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 12:47:52,889 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 12:47:57,738 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 12:48:45,369 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 12:48:48,359 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 12:48:48,676 +0530 [main] INFO  (TC01_MyntraLogin.java:20) - UserName entered
+2019-08-14 12:48:48,830 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - Password Entered
+2019-08-14 12:48:48,986 +0530 [main] INFO  (TC01_MyntraLogin.java:26) - Clicked on Login button
+2019-08-14 12:48:50,142 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 13:13:13,276 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 13:13:15,914 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 13:13:16,202 +0530 [main] INFO  (TC01_MyntraLogin.java:20) - UserName entered
+2019-08-14 13:13:16,358 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - Password Entered
+2019-08-14 13:13:16,501 +0530 [main] INFO  (TC01_MyntraLogin.java:26) - Clicked on Login button
+2019-08-14 13:13:17,693 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 13:32:15,428 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 13:32:18,465 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 13:32:18,905 +0530 [main] INFO  (TC01_MyntraLogin.java:20) - UserName entered
+2019-08-14 13:32:19,065 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - Password Entered
+2019-08-14 13:32:19,214 +0530 [main] INFO  (TC01_MyntraLogin.java:26) - Clicked on Login button
+2019-08-14 13:32:21,053 +0530 [main] INFO  (TC01_MyntraLogin.java:33) - Verified the Title Page
+2019-08-14 13:32:23,103 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 20:02:29,685 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 20:02:37,460 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 20:02:39,584 +0530 [main] INFO  (TC01_MyntraLogin.java:22) - UserName entered
+2019-08-14 20:02:39,724 +0530 [main] INFO  (TC01_MyntraLogin.java:25) - Password Entered
+2019-08-14 20:02:39,863 +0530 [main] INFO  (TC01_MyntraLogin.java:28) - Clicked on Login button
+2019-08-14 20:02:43,049 +0530 [main] INFO  (TC01_MyntraLogin.java:35) - Verified the Title Page
+2019-08-14 20:02:45,026 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 20:04:12,461 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 20:04:27,169 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 20:04:28,844 +0530 [main] INFO  (TC01_MyntraLogin.java:22) - UserName entered
+2019-08-14 20:04:29,057 +0530 [main] INFO  (TC01_MyntraLogin.java:25) - Password Entered
+2019-08-14 20:04:29,229 +0530 [main] INFO  (TC01_MyntraLogin.java:28) - Clicked on Login button
+2019-08-14 20:04:31,350 +0530 [main] INFO  (TC01_MyntraLogin.java:22) - UserName entered
+2019-08-14 20:04:42,516 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 20:10:11,548 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 20:10:14,115 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 20:10:15,145 +0530 [main] INFO  (TC01_MyntraLogin.java:22) - UserName entered
+2019-08-14 20:10:15,268 +0530 [main] INFO  (TC01_MyntraLogin.java:25) - Password Entered
+2019-08-14 20:10:15,451 +0530 [main] INFO  (TC01_MyntraLogin.java:28) - Clicked on Login button
+2019-08-14 20:10:17,213 +0530 [main] INFO  (TC01_MyntraLogin.java:35) - Verified the Title Page
+2019-08-14 20:10:29,157 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 20:11:26,930 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 20:11:35,998 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 20:11:37,641 +0530 [main] INFO  (TC01_MyntraLogin.java:22) - UserName entered
+2019-08-14 20:11:37,792 +0530 [main] INFO  (TC01_MyntraLogin.java:25) - Password Entered
+2019-08-14 20:11:37,936 +0530 [main] INFO  (TC01_MyntraLogin.java:28) - Clicked on Login button
+2019-08-14 20:11:39,994 +0530 [main] INFO  (TC01_MyntraLogin.java:35) - Verified the Title Page
+2019-08-14 20:11:41,900 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 20:14:42,695 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 20:14:45,108 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 20:14:46,547 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - UserName entered
+2019-08-14 20:14:46,682 +0530 [main] INFO  (TC01_MyntraLogin.java:26) - Password Entered
+2019-08-14 20:14:46,856 +0530 [main] INFO  (TC01_MyntraLogin.java:29) - Clicked on Login button
+2019-08-14 20:14:48,785 +0530 [main] INFO  (TC01_MyntraLogin.java:36) - Verified the Title Page
+2019-08-14 20:14:50,876 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 20:18:23,310 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 20:18:26,285 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 20:18:27,680 +0530 [main] INFO  (TC01_MyntraLogin.java:23) - UserName entered
+2019-08-14 20:18:27,802 +0530 [main] INFO  (TC01_MyntraLogin.java:26) - Password Entered
+2019-08-14 20:18:27,923 +0530 [main] INFO  (TC01_MyntraLogin.java:29) - Clicked on Login button
+2019-08-14 20:18:42,216 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 20:24:22,260 +0530 [main] INFO  (BaseClass.java:43) - User clicked on Profile icon
+2019-08-14 20:24:25,554 +0530 [main] INFO  (BaseClass.java:47) - User clicked on Login button
+2019-08-14 20:24:27,534 +0530 [main] INFO  (BaseClass.java:55) - Application Closed successfully
+2019-08-14 20:26:46,905 +0530 [main] INFO  (BaseClass.java:45) - User clicked on Profile icon
+2019-08-14 20:26:49,527 +0530 [main] INFO  (BaseClass.java:49) - User clicked on Login button
+2019-08-14 20:26:49,779 +0530 [main] INFO  (TC01_MyntraLogin.java:24) - UserName entered
+2019-08-14 20:26:49,940 +0530 [main] INFO  (TC01_MyntraLogin.java:27) - Password Entered
+2019-08-14 20:26:50,077 +0530 [main] INFO  (TC01_MyntraLogin.java:30) - Clicked on Login button
+2019-08-14 20:26:51,927 +0530 [main] INFO  (TC01_MyntraLogin.java:42) - Verified the Title Page
+2019-08-14 20:26:53,814 +0530 [main] INFO  (BaseClass.java:57) - Application Closed successfully
+2019-08-14 20:27:12,317 +0530 [main] INFO  (BaseClass.java:45) - User clicked on Profile icon
+2019-08-14 20:27:14,888 +0530 [main] INFO  (BaseClass.java:49) - User clicked on Login button
+2019-08-14 20:27:15,070 +0530 [main] INFO  (TC01_MyntraLogin.java:24) - UserName entered
+2019-08-14 20:27:15,185 +0530 [main] INFO  (TC01_MyntraLogin.java:27) - Password Entered
+2019-08-14 20:27:15,333 +0530 [main] INFO  (TC01_MyntraLogin.java:30) - Clicked on Login button
+2019-08-14 20:27:17,054 +0530 [main] INFO  (TC01_MyntraLogin.java:42) - Verified the Title Page
+2019-08-14 20:27:18,963 +0530 [main] INFO  (BaseClass.java:57) - Application Closed successfully
+2019-08-14 20:29:21,351 +0530 [main] INFO  (BaseClass.java:45) - User clicked on Profile icon
+2019-08-14 20:29:24,440 +0530 [main] INFO  (BaseClass.java:49) - User clicked on Login button
+2019-08-14 20:29:24,689 +0530 [main] INFO  (TC01_MyntraLogin.java:22) - UserName entered
+2019-08-14 20:29:24,824 +0530 [main] INFO  (TC01_MyntraLogin.java:25) - Password Entered
+2019-08-14 20:29:24,972 +0530 [main] INFO  (TC01_MyntraLogin.java:28) - Clicked on Login button
+2019-08-14 20:29:27,678 +0530 [main] INFO  (TC01_MyntraLogin.java:34) - Verified the Title Page
+2019-08-14 20:29:29,695 +0530 [main] INFO  (BaseClass.java:57) - Application Closed successfully
+2019-08-14 20:30:14,435 +0530 [main] INFO  (BaseClass.java:45) - User clicked on Profile icon
+2019-08-14 20:30:17,446 +0530 [main] INFO  (BaseClass.java:49) - User clicked on Login button
+2019-08-14 20:30:17,647 +0530 [main] INFO  (TC01_MyntraLogin.java:22) - UserName entered
+2019-08-14 20:30:17,785 +0530 [main] INFO  (TC01_MyntraLogin.java:25) - Password Entered
+2019-08-14 20:30:17,938 +0530 [main] INFO  (TC01_MyntraLogin.java:28) - Clicked on Login button
+2019-08-14 20:30:20,490 +0530 [main] INFO  (TC01_MyntraLogin.java:34) - Verified the Title Page
+2019-08-14 20:30:22,424 +0530 [main] INFO  (BaseClass.java:57) - Application Closed successfully
+2019-08-21 09:15:08,142 +0530 [main] INFO  (BaseClass.java:45) - User clicked on Profile icon
+2019-08-21 09:15:10,838 +0530 [main] INFO  (BaseClass.java:49) - User clicked on Login button
+2019-08-21 09:15:11,067 +0530 [main] INFO  (TC01_MyntraLogin.java:24) - UserName entered
+2019-08-21 09:15:11,163 +0530 [main] INFO  (TC01_MyntraLogin.java:27) - Password Entered
+2019-08-21 09:15:11,286 +0530 [main] INFO  (TC01_MyntraLogin.java:30) - Clicked on Login button
+2019-08-21 09:15:12,745 +0530 [main] INFO  (TC01_MyntraLogin.java:36) - Verified the Title Page
+2019-08-21 09:15:15,072 +0530 [main] INFO  (BaseClass.java:57) - Application Closed successfully
+2019-08-21 09:15:31,380 +0530 [main] INFO  (BaseClass.java:45) - User clicked on Profile icon
+2019-08-21 09:15:33,893 +0530 [main] INFO  (BaseClass.java:49) - User clicked on Login button
+2019-08-21 09:15:34,071 +0530 [main] INFO  (TC01_MyntraLogin.java:24) - UserName entered
+2019-08-21 09:15:34,167 +0530 [main] INFO  (TC01_MyntraLogin.java:27) - Password Entered
+2019-08-21 09:15:34,276 +0530 [main] INFO  (TC01_MyntraLogin.java:30) - Clicked on Login button
+2019-08-21 09:15:35,804 +0530 [main] INFO  (TC01_MyntraLogin.java:36) - Verified the Title Page
+2019-08-21 09:15:38,199 +0530 [main] INFO  (BaseClass.java:57) - Application Closed successfully
